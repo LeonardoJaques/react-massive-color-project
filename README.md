@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+
+# React Massive Color Project
+  20h of project 5h corrections
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
