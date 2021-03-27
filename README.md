@@ -1,6 +1,6 @@
 
 # React Massive Color Project
-  20h of project 5h corrections
+  25h of project
 
 ## Getting Started with Create React App
 
